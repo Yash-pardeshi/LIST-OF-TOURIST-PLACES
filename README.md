@@ -1,2 +1,2 @@
 # LIST-OF-TOURIST-PLACES
-A SCHOOL ASSIGNMENT.
+Its an assignment i mafe for my school. You can use the code if you want.
